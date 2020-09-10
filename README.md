@@ -23,7 +23,7 @@ There are a few technical implementations that can get go links to work.
   sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/GoLinks/golinks/golinks/install.sh)"
   ```
     
-  2. Click [http://go/links](http://go/links?trackSource=install) to test installation.
+  2. Click [http://go/links?trackSource=install](http://go/links?trackSource=install) to test installation.
 
       - If you're prompted to "Create an Account", then installation was successful.
   3. Enter your company email that you plan to share links with.
@@ -42,7 +42,7 @@ Go links are most useful when shared with a company network. You can install go 
 4. Fill in the inputs:
     - Name: go
     - IP: 52.72.13.96
-5. Visit [http://go/links](http://go/links?trackSource=install) to test installation.
+5. Visit [http://go/links?trackSource=install](http://go/links?trackSource=install) to test installation.
     - If you're prompted to "Create an Account", then installation was successful
 6. [Click here to create the golink "go/new"](http://go/?action=create&create-name=new&create-url=https://docs.google.com/document/create?title={*}&create-description=Create%20a%20new%20doc%20with%20a%20title,%20just%20type%20in%20go/new/My%20Notes)
 
