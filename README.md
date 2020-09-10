@@ -16,6 +16,9 @@ Go links work by storing 2 key pieces of information: a URL and a keyword. The t
 
 There are a few technical implementations that can get go links to work.
 
+[![Installing golinks](https://raw.githubusercontent.com/GoLinks/golinks/golinks/golinks.gif)](https://asciinema.org/a/358811)
+
+
 ### Install go links with a Local Host file
   1. Copy and paste this line into terminal
 
