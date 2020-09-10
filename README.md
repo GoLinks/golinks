@@ -19,9 +19,9 @@ There are a few technical implementations that can get go links to work.
 ### Install go links with a Local Host file
   1. Copy and paste this line into terminal
   
-    ```console
-    sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/GoLinks/golinks/golinks/install.sh)"
-    ```
+  ```console
+  sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/GoLinks/golinks/golinks/install.sh)"
+  ```
     
   2. Click [http://go/links](http://go/links?trackSource=install) to test installation.
 
