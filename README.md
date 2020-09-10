@@ -18,11 +18,11 @@ There are a few technical implementations that can get go links to work.
 
 ### Install go links with a Local Host file
   1. Copy and paste this line into terminal
-  
+
   ```console
   sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/GoLinks/golinks/golinks/install.sh)"
   ```
-    
+
   2. Click [http://go/links?trackSource=install](http://go/links?trackSource=install) to test installation.
 
       - If you're prompted to "Create an Account", then installation was successful.
@@ -50,9 +50,10 @@ Go links are most useful when shared with a company network. You can install go 
 These are common issues you may run into when installing.
 
 #### I received a sad browser error page
-![Sad golinks browser error](https://github.com/Golinks/golinks/golinks/error.png)
+![Sad golinks browser error](https://raw.githubusercontent.com/GoLinks/golinks/golinks/error.png)
 ```
-This site can’t be reached go’s server IP address could not be found.
+This site can’t be reached
+go’s server IP address could not be found.
 DNS_PROBE_FINISHED_NXDOMAIN
 ERR_NAME_NOT_RESOLVED
 ```
