@@ -50,7 +50,7 @@ Go links are most useful when shared with a company network. You can install go 
 These are common issues you may run into when installing.
 
 #### I received a sad browser error page
-![Sad golinks browser error](https://github.com/Golinks/golinks/error.png)
+![Sad golinks browser error](https://github.com/Golinks/golinks/golinks/error.png)
 ```
 This site can’t be reached go’s server IP address could not be found.
 DNS_PROBE_FINISHED_NXDOMAIN
