@@ -2,6 +2,8 @@
 
 Go links are intuitive, easy-to-remember short links, shared by teams. Also known as go links, golinks, go/links, or go-links.
 
+![go links](http://golinks.io/d/images/golinks-logo-horizontal-gray.png?ref=github-image)
+
 ## What is a Go Link?
 
 A go link is a short keyword that can be entered directly into your browser’s address bar to quickly access company resources. Also known as a golink, go-link, or go/link, it enables large tech companies like Google, Linkedin, Twitter, Square, and many [other companies in Silicon Valley](https://medium.com/@golinks/silicon-valleys-biggest-secret-the-golink-7b42d93bc8c4), to quickly manage and find all of their important links.
