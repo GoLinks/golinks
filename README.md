@@ -11,7 +11,7 @@ A go link is a short keyword that can be entered directly into your browser’s 
 
 ## How do Go Links work?
 
-[https://www.golinks.com/blog/the-ultimate-guide-to-go-links/?utm_source=github&utm_medium=readme&utm_campaign=title](Go links) work by storing 2 key pieces of information: a URL and a keyword. The two items are associated in a redirect engine and allow for quick access to URLs in the browser. A user simply needs to enter a keyword after the go/ prefix such as go/meet, and they will be redirected to the associated URL.
+[Go links](https://www.golinks.com/blog/the-ultimate-guide-to-go-links/?utm_source=github&utm_medium=readme&utm_campaign=title) work by storing 2 key pieces of information: a URL and a keyword. The two items are associated in a redirect engine and allow for quick access to URLs in the browser. A user simply needs to enter a keyword after the go/ prefix such as go/meet, and they will be redirected to the associated URL.
 
 ## How to install Go Links
 
